@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Choice on Just Thoughts</title>
+    <link>http://themes.gohugo.io/theme/bootstrap/tags/choice/</link>
+    <description>Recent content in Choice on Just Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2008 - 2017, Steve Francia; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://themes.gohugo.io/theme/bootstrap/tags/choice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Alan Watts - Choice</title>
+      <link>http://themes.gohugo.io/theme/bootstrap/post/wattschoice/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://themes.gohugo.io/theme/bootstrap/post/wattschoice/</guid>
+      <description>“You do not know where your decisions come from, they pop up like hiccups. People have a great deal of anxiety about making decisions, ‘Did I think this over long enough? Did I take enough data into consideration?’
+And if you think it through you find you never could take enough data into consideration, the data for a decision in any given situation is infinite. So what you do is you go through the motions of thinking about out what you will do about this, but worriers are people who think of all the variables beyond their control, and what might happen!</description>
+    </item>
+    
+    <item>
+      <title>George Carlin – The Illusion Of Choice</title>
+      <link>http://themes.gohugo.io/theme/bootstrap/post/carlinchoice/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://themes.gohugo.io/theme/bootstrap/post/carlinchoice/</guid>
+      <description> Well, we like war. We like war. We are a war like people. We like war because we are good at it. You know, why we are good at it, because we get a lot of practice. This country is only 200 years old and already we’ve had 10 major wars. The average a major war every 20 years in this country.
+Links.  Full YouTube Link.  </description>
+    </item>
+    
+  </channel>
+</rss>

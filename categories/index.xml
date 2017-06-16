@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Just Thoughts</title>
+    <link>http://themes.gohugo.io/theme/bootstrap/categories/</link>
+    <description>Recent content in Categories on Just Thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2008 - 2017, Steve Francia; all rights reserved.</copyright>
+    
+	<atom:link href="http://themes.gohugo.io/theme/bootstrap/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Commencement Speech</title>
+      <link>http://themes.gohugo.io/theme/bootstrap/categories/commencement-speech/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://themes.gohugo.io/theme/bootstrap/categories/commencement-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interview</title>
+      <link>http://themes.gohugo.io/theme/bootstrap/categories/interview/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://themes.gohugo.io/theme/bootstrap/categories/interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast</title>
+      <link>http://themes.gohugo.io/theme/bootstrap/categories/podcast/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://themes.gohugo.io/theme/bootstrap/categories/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech</title>
+      <link>http://themes.gohugo.io/theme/bootstrap/categories/speech/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://themes.gohugo.io/theme/bootstrap/categories/speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text</title>
+      <link>http://themes.gohugo.io/theme/bootstrap/categories/text/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://themes.gohugo.io/theme/bootstrap/categories/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>http://themes.gohugo.io/theme/bootstrap/categories/youtube/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://themes.gohugo.io/theme/bootstrap/categories/youtube/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
