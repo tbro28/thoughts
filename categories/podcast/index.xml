@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcast on Just Thoughts</title>
-    <link>http://themes.gohugo.io/theme/bootstrap/categories/podcast/</link>
+    <link>https://tbro28.github.io/thoughts/categories/podcast/</link>
     <description>Recent content in Podcast on Just Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2008 - 2017, Steve Francia; all rights reserved.</copyright>
+    <copyright>Copyright (c) 2008 - 2017, Brown; all rights reserved.</copyright>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://themes.gohugo.io/theme/bootstrap/categories/podcast/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tbro28.github.io/thoughts/categories/podcast/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kevin Smith on Death from Joe Rogan Experience</title>
-      <link>http://themes.gohugo.io/theme/bootstrap/post/smith/</link>
+      <link>https://tbro28.github.io/thoughts/post/smith/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://themes.gohugo.io/theme/bootstrap/post/smith/</guid>
+      <guid>https://tbro28.github.io/thoughts/post/smith/</guid>
       <description>Play it with passion. Death – in a world where you’re going to die, why not? What do you have to lose? His dad died screaming.  There&amp;rsquo;s no point in not trying to accomplish every dream I&amp;rsquo;ve got.   Chasing Whimsies  At the end it might just be get in the box, you had your chance.
  Chase it all down; big and small. Go after your dreams.</description>
     </item>
