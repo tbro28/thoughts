@@ -53,6 +53,11 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/thoughts/post/wallace/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/thoughts/post/dontquit/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
@@ -98,11 +103,6 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/thoughts/post/wallace/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tbro28.github.io/thoughts/post/exhaustion/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
@@ -119,13 +119,13 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/thoughts/tags/commencement-speech/</loc>
+    <loc>https://tbro28.github.io/thoughts/categories/commencement-speech/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/thoughts/categories/commencement-speech/</loc>
+    <loc>https://tbro28.github.io/thoughts/tags/commencement-speech/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -228,12 +228,6 @@
   
   <url>
     <loc>https://tbro28.github.io/thoughts/categories/text/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tbro28.github.io/thoughts/categories/youtube/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
