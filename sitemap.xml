@@ -43,6 +43,11 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/thoughts/post/audio/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/thoughts/post/bestmotiv/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
@@ -123,7 +128,14 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/thoughts/categories/audio/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/thoughts/categories/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

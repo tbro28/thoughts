@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2008 - 2017, Brown; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tbro28.github.io/thoughts/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Audio</title>
+      <link>https://tbro28.github.io/thoughts/categories/audio/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/thoughts/categories/audio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Commencement Speech</title>
