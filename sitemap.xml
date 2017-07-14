@@ -18,16 +18,6 @@
   </url>
   
   <url>
-    <loc>https://tbro28.github.io/thoughts/page/disclaimer/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tbro28.github.io/thoughts/page/license/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tbro28.github.io/thoughts/page/about-me/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
@@ -73,6 +63,11 @@
   </url>
   
   <url>
+    <loc>https://tbro28.github.io/thoughts/post/dutchbros/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tbro28.github.io/thoughts/post/carlinchoice/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
@@ -114,6 +109,11 @@
   
   <url>
     <loc>https://tbro28.github.io/thoughts/post/jobs/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tbro28.github.io/thoughts/post/emerson/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -201,7 +201,7 @@
   
   <url>
     <loc>https://tbro28.github.io/thoughts/page/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

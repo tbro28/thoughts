@@ -7,28 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2008 - 2017, Brown; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tbro28.github.io/thoughts/page/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Disclaimer</title>
-      <link>https://tbro28.github.io/thoughts/page/disclaimer/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://tbro28.github.io/thoughts/page/disclaimer/</guid>
-      <description>Disclaimer  Your disclaimer text here NOTE:Some information in this website might be copied from other websites. If you see something is your copyright or something should not belong here, please feel free to contact me. I will remove necessary parts.     </description>
-    </item>
-    
-    <item>
-      <title>License</title>
-      <link>https://tbro28.github.io/thoughts/page/license/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://tbro28.github.io/thoughts/page/license/</guid>
-      <description>LICENSE  Unless otherwise mentioned code from this blog can used as per MIT or Apache 2.0 license.     </description>
-    </item>
     
     <item>
       <title>Links</title>
@@ -36,9 +18,7 @@
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/thoughts/page/about-me/</guid>
-      <description>Other sites that I like:  Graduation Wisdom LYBIO.NET UpWorthy  Setup Hugo is a static site engine written in Go.
-Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.
-Thanks for reading!</description>
+      <description>Other sites that I like:  Graduation Wisdom LYBIO.NET UpWorthy  Setup Thanks for reading!</description>
     </item>
     
   </channel>
