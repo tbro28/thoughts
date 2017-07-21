@@ -6,22 +6,9 @@
     <description>Recent content in Death on Just Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2008 - 2017; all rights reserved.</copyright>
+    <copyright>Copyright</copyright>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://tbro28.github.io/thoughts/tags/death/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Alan Watts - Acceptance of Death</title>
-      <link>https://tbro28.github.io/thoughts/post/wattsdeath/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://tbro28.github.io/thoughts/post/wattsdeath/</guid>
-      <description>Now there really isn’t anything radically wrong with being sick or with dying. Who said you’re supposed to survive? Who gave you the idea that it’s a gas to go on and on and on?
-And we can’t say that it’s a good thing for everything to go on living. In a very simple demonstration that if we enable everybody to go on living, we overcrowd ourselves.
-Why else would we have children?</description>
-    </item>
+    <atom:link href="https://tbro28.github.io/thoughts/tags/death/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Kevin Smith on Death from Joe Rogan Experience</title>
@@ -41,6 +28,17 @@ Regardless of the reality of candyland, if this is our one shot on Earth; it rea
       <guid>https://tbro28.github.io/thoughts/post/jobs/</guid>
       <description>3 Stories 
 1. Connecting the dots  He took a calligraphy class at Reed College. 10 years later it all came back to him and used that knowledge in the Mac. It&amp;rsquo;s impossible to connect the dots looking forward. You have to trust that the dots will somehow connect in your future.  If you simply do enough things and show curiosity with the ability to learn, eventually they&amp;rsquo;ll fit together in some fashion.</description>
+    </item>
+    
+    <item>
+      <title>Alan Watts - Acceptance of Death</title>
+      <link>https://tbro28.github.io/thoughts/post/wattsdeath/</link>
+      <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/thoughts/post/wattsdeath/</guid>
+      <description>Now there really isn’t anything radically wrong with being sick or with dying. Who said you’re supposed to survive? Who gave you the idea that it’s a gas to go on and on and on?
+And we can’t say that it’s a good thing for everything to go on living. In a very simple demonstration that if we enable everybody to go on living, we overcrowd ourselves.
+Why else would we have children?</description>
     </item>
     
   </channel>

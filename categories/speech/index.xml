@@ -6,32 +6,9 @@
     <description>Recent content in Speech on Just Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2008 - 2017; all rights reserved.</copyright>
+    <copyright>Copyright</copyright>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://tbro28.github.io/thoughts/categories/speech/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Alan Watts - Acceptance of Death</title>
-      <link>https://tbro28.github.io/thoughts/post/wattsdeath/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://tbro28.github.io/thoughts/post/wattsdeath/</guid>
-      <description>Now there really isn’t anything radically wrong with being sick or with dying. Who said you’re supposed to survive? Who gave you the idea that it’s a gas to go on and on and on?
-And we can’t say that it’s a good thing for everything to go on living. In a very simple demonstration that if we enable everybody to go on living, we overcrowd ourselves.
-Why else would we have children?</description>
-    </item>
-    
-    <item>
-      <title>Alan Watts - Choice</title>
-      <link>https://tbro28.github.io/thoughts/post/wattschoice/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://tbro28.github.io/thoughts/post/wattschoice/</guid>
-      <description>“You do not know where your decisions come from, they pop up like hiccups. People have a great deal of anxiety about making decisions, ‘Did I think this over long enough? Did I take enough data into consideration?’
-And if you think it through you find you never could take enough data into consideration, the data for a decision in any given situation is infinite. So what you do is you go through the motions of thinking about out what you will do about this, but worriers are people who think of all the variables beyond their control, and what might happen!</description>
-    </item>
+    <atom:link href="https://tbro28.github.io/thoughts/categories/speech/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Best Motivational</title>
@@ -49,12 +26,21 @@ BUT, more importantly, how are you going to do it?
     </item>
     
     <item>
+      <title>Carl Sagan - The Pale Blue Dot</title>
+      <link>https://tbro28.github.io/thoughts/post/sagan-dot/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/thoughts/post/sagan-dot/</guid>
+      <description>Look again at that dot. That&amp;rsquo;s here. That&amp;rsquo;s home. That&amp;rsquo;s us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every &amp;ldquo;superstar,&amp;rdquo; every &amp;ldquo;supreme leader,&amp;rdquo; every saint and sinner in the history of our species lived there&amp;ndash;on a mote of dust suspended in a sunbeam.</description>
+    </item>
+    
+    <item>
       <title>Charlie Chaplin: Speech in The Great Dictator</title>
       <link>https://tbro28.github.io/thoughts/post/chaplin/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/thoughts/post/chaplin/</guid>
-      <description> Links.  Full YouTube Link.  </description>
+      <description>We all want to help one another. Human beings are like that. We want to live by each other’s happiness - not by each other’s misery. We don’t want to hate and despise one another. In this world there is room for everyone. And the good earth is rich and can provide for everyone. The way of life can be free and beautiful, but we have lost the way.</description>
     </item>
     
     <item>
@@ -106,6 +92,27 @@ Links.  Full YouTube Link.  </description>
       <description> Winning is not a one time thing. It&amp;rsquo;s an all the time thing. You don&amp;rsquo;t win once in a while and you don&amp;rsquo;t do things right once in while. You do them right all of the time. Winnning is a habit.
 Appreciate the grind, the discipline, and to win, and to win, and to win.
 Links.  Full YouTube Link.  </description>
+    </item>
+    
+    <item>
+      <title>Alan Watts - Acceptance of Death</title>
+      <link>https://tbro28.github.io/thoughts/post/wattsdeath/</link>
+      <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/thoughts/post/wattsdeath/</guid>
+      <description>Now there really isn’t anything radically wrong with being sick or with dying. Who said you’re supposed to survive? Who gave you the idea that it’s a gas to go on and on and on?
+And we can’t say that it’s a good thing for everything to go on living. In a very simple demonstration that if we enable everybody to go on living, we overcrowd ourselves.
+Why else would we have children?</description>
+    </item>
+    
+    <item>
+      <title>Alan Watts - Choice</title>
+      <link>https://tbro28.github.io/thoughts/post/wattschoice/</link>
+      <pubDate>Tue, 02 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://tbro28.github.io/thoughts/post/wattschoice/</guid>
+      <description>“You do not know where your decisions come from, they pop up like hiccups. People have a great deal of anxiety about making decisions, ‘Did I think this over long enough? Did I take enough data into consideration?’
+And if you think it through you find you never could take enough data into consideration, the data for a decision in any given situation is infinite. So what you do is you go through the motions of thinking about out what you will do about this, but worriers are people who think of all the variables beyond their control, and what might happen!</description>
     </item>
     
   </channel>

@@ -6,11 +6,9 @@
     <description>Recent content in Motivational on Just Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright (c) 2008 - 2017; all rights reserved.</copyright>
+    <copyright>Copyright</copyright>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://tbro28.github.io/thoughts/tags/motivational/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://tbro28.github.io/thoughts/tags/motivational/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Audio Links</title>
@@ -18,8 +16,8 @@
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://tbro28.github.io/thoughts/post/audio/</guid>
-      <description> Links to over a dozen audio clips.
-Links.  Full Link.  </description>
+      <description>  Links to over a dozen audio clips on various topics.
+ Links.  Full Link.  </description>
     </item>
     
     <item>
